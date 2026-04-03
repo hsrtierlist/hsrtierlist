@@ -4,7 +4,7 @@
 
 A comprehensive resource for HSR players featuring character rankings, team recommendations, and banner pull advice.
 
-**Live at**: https://hsrtierlist.net
+**Live at**: [hsrtierlist.net](https://hsrtierlist.net?ref=github-readme)
 
 ---
 
