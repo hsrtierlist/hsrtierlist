@@ -15,6 +15,12 @@ A comprehensive resource for HSR players featuring character rankings, team reco
 - **Banner Advice** - Pull recommendations for current and upcoming banners
 - **Endgame Guides** - Strategy references for challenging content
 
+## Links
+
+- X: [@hsrtierlis_net](https://x.com/hsrtierlis_net)
+- HoYoLAB: [HSR Tier List HoYoLAB Page](https://www.hoyolab.com/accountCenter/postList?id=486612820)
+- Pinterest: [HSR Tier List Pin](https://www.pinterest.com/pin/1100285752834392568/)
+
 ## License
 
 This project is fan-made and not affiliated with miHoYo/HoYoverse.
